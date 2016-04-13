@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/sferey/money.svg?branch=master)](https://travis-ci.org/sferey/money)
 
+
+
+
 # Money
 
 [Value Object](http://martinfowler.com/bliki/ValueObject.html) that represents a [monetary value using a currency's smallest unit](http://martinfowler.com/eaaCatalog/money.html).
